@@ -3,9 +3,9 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 <img src="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.gif" alt="coding" align="right" width="400" >
 
-- 🌱 I’m currently learning **React, Redux**
+- 🌱 I’m currently learning **React JS, NEXT JS**
 
-- 💬 Ask me about **React, JavaScript**
+- 💬 Ask me about **React, JavaScript,Typescript**
 
 - 📫 How to reach me **bejsuman29@gmail.com**
 
