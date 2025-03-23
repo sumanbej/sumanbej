@@ -1,4 +1,4 @@
-![MainHeader](./github-header-sumanbej-1.png)
+![MainHeader](./github-header-sumanbej.png)
 <h1 align="center">Hi 👋, I'm Suman Bej</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 <img src="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.gif" alt="coding" align="right" width="400" >
