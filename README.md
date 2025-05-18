@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Software Developer from India</h3>
 <img src="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.gif" alt="coding" align="right" width="400" >
 
-- 🌱 I’m currently learning **React JS, NEXT JS**
+- 🌱 I’m currently learning **React JS, NEXT JS , JAVA , SPRING BOOT**
 
 - 💬 Ask me about **React, JavaScript,Typescript**
 
