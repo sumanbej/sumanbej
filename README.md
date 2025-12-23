@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Suman Bej</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 
-- 🌱 I’m currently learning **React JS,Next JS, Spring Boot**
+- 🌱 I’m currently learning **Java,Sprring Boot,React JS,Next JS**
 
 - 👨‍💻 All of my projects are available at [https://sumanbej-portfolio.netlify.app/](https://sumanbej-portfolio.netlify.app/)
 
