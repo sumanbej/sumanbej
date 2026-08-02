@@ -76,7 +76,7 @@ and strengthening my engineering fundamentals every day.
 
 ## 🏆 Highlights
 - 🥇 **LeetCode 365 Days Badge** — consistency & discipline
-- 📈 Actively preparing for **SDE-1 / SDE-2 roles**
+- 📈 Actively preparing for **SDE-2 roles**
 - 🧩 Strong problem-solving mindset with real-world focus
 
 ---
